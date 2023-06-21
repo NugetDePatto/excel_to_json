@@ -26,7 +26,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12108-AGUILAR DIAZ LILIANA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -56,7 +58,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12231-AGUILAR RODRIGUEZ MONICA DHUBE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -78,7 +82,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-402",
         "inscritos": "41",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12231-AGUILAR RODRIGUEZ MONICA DHUBE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -100,7 +106,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-403",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12231-AGUILAR RODRIGUEZ MONICA DHUBE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -122,7 +130,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-402",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12231-AGUILAR RODRIGUEZ MONICA DHUBE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -144,7 +154,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-402",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12231-AGUILAR RODRIGUEZ MONICA DHUBE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -166,7 +178,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-403",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12231-AGUILAR RODRIGUEZ MONICA DHUBE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -196,7 +210,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-203",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-ALONSO RUIZ JORGE ABALAY ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -218,7 +234,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-ALONSO RUIZ JORGE ABALAY ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -240,7 +258,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-ALONSO RUIZ JORGE ABALAY ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -262,7 +282,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-ALONSO RUIZ JORGE ABALAY ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -284,7 +306,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-ALONSO RUIZ JORGE ABALAY ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -306,7 +330,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-315",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-ARADILLAS PIÑA DINORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -328,7 +354,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-405",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-ARADILLAS PIÑA DINORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -350,7 +378,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-ARADILLAS PIÑA DINORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -364,7 +394,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "D-408",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-ARADILLAS PIÑA DINORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -378,7 +410,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "D-408",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-ARADILLAS PIÑA DINORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -400,7 +434,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-ARADILLAS PIÑA DINORA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -430,7 +466,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12117-ARCOS ESPINOSA JAVIER AURELIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -452,7 +490,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12117-ARCOS ESPINOSA JAVIER AURELIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -474,7 +514,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12117-ARCOS ESPINOSA JAVIER AURELIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "H",
@@ -496,7 +538,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12117-ARCOS ESPINOSA JAVIER AURELIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -518,7 +562,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-203",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12117-ARCOS ESPINOSA JAVIER AURELIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -548,7 +594,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-MÉTODOS",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-BALLEZA LOPEZ CARLOS URBANO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -570,7 +618,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-MÉTODOS",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-BALLEZA LOPEZ CARLOS URBANO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -592,7 +642,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-BALLEZA LOPEZ CARLOS URBANO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -622,7 +674,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12107-BECERRA DEL ANGEL ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "H",
@@ -644,7 +698,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12107-BECERRA DEL ANGEL ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -666,7 +722,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12107-BECERRA DEL ANGEL ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -688,7 +746,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12107-BECERRA DEL ANGEL ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -710,7 +770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12107-BECERRA DEL ANGEL ARMANDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -740,7 +802,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-BENITO DIAZ MARIA LUISA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -762,7 +826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-205",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-BENITO DIAZ MARIA LUISA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -784,7 +850,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-208",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-BENITO DIAZ MARIA LUISA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -806,7 +874,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-208",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-BENITO DIAZ MARIA LUISA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -828,7 +898,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "38",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-BENITO DIAZ MARIA LUISA BERENICE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -858,7 +930,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30143-BORJAS POLANCO MIGUEL ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -880,7 +954,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30143-BORJAS POLANCO MIGUEL ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -902,7 +978,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30143-BORJAS POLANCO MIGUEL ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -924,7 +1002,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30143-BORJAS POLANCO MIGUEL ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -946,7 +1026,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-311",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30143-BORJAS POLANCO MIGUEL ANGEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -976,7 +1058,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-MÉTODOS",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -990,7 +1074,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -1004,7 +1090,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -1018,7 +1106,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -1032,7 +1122,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -1054,7 +1146,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-403",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "L",
@@ -1076,7 +1170,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-101",
         "inscritos": "4",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30560-CARDONA HONDALL ROSA CARMINA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1106,7 +1202,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-CARMONA ESQUEDA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -1120,7 +1218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-210",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-CARMONA ESQUEDA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -1142,7 +1242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-CARMONA ESQUEDA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -1164,7 +1266,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-CARMONA ESQUEDA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -1186,7 +1290,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-205",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-CARMONA ESQUEDA ROBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1216,7 +1322,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-109",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-CASTAN ROCHA EMILIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -1238,7 +1346,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-CASTAN ROCHA EMILIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -1260,7 +1370,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-412",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-CASTAN ROCHA EMILIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -1282,7 +1394,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-CASTAN ROCHA EMILIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -1304,7 +1418,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-CASTAN ROCHA EMILIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1334,7 +1450,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-SISTEMAS DE MANUFACTURA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30112-CAZARES VIDAL EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -1356,7 +1474,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-311",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30112-CAZARES VIDAL EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -1378,7 +1498,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30112-CAZARES VIDAL EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -1400,7 +1522,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30112-CAZARES VIDAL EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -1422,7 +1546,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "37",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30112-CAZARES VIDAL EMMANUEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1452,7 +1578,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30548-CERVANTES CHIRINOS ERICK EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -1474,7 +1602,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-103",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30548-CERVANTES CHIRINOS ERICK EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -1496,7 +1626,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-104",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30548-CERVANTES CHIRINOS ERICK EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -1510,7 +1642,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30548-CERVANTES CHIRINOS ERICK EMMANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -1532,7 +1666,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30548-CERVANTES CHIRINOS ERICK EMMANUEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1562,7 +1698,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-302",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12210-DE LA TORRE GUZMAN LUIS EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -1584,7 +1722,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-302",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12210-DE LA TORRE GUZMAN LUIS EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -1606,7 +1746,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-207",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12210-DE LA TORRE GUZMAN LUIS EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -1628,7 +1770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-208",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12210-DE LA TORRE GUZMAN LUIS EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -1650,7 +1794,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-105",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12210-DE LA TORRE GUZMAN LUIS EDUARDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1680,7 +1826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "40",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30218-DEANTES PEREZ JOSE AGUSTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -1702,7 +1850,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30218-DEANTES PEREZ JOSE AGUSTIN ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1732,7 +1882,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-DIAZ JUAREZ JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -1754,7 +1906,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-DIAZ JUAREZ JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -1776,7 +1930,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-109",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-DIAZ JUAREZ JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -1798,7 +1954,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-DIAZ JUAREZ JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -1820,7 +1978,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-DIAZ JUAREZ JOSE LUIS ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1850,7 +2010,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "38",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-FUENTES CASTRO JUAN ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -1872,7 +2034,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "34",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-FUENTES CASTRO JUAN ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -1886,7 +2050,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-FUENTES CASTRO JUAN ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -1900,7 +2066,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-FUENTES CASTRO JUAN ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -1922,7 +2090,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-FUENTES CASTRO JUAN ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -1944,7 +2114,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-314",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-FUENTES CASTRO JUAN ANGEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -1974,7 +2146,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-412",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30447-GARCIA CANTERO IRVING ROMAN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -1996,7 +2170,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30447-GARCIA CANTERO IRVING ROMAN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -2018,7 +2194,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30447-GARCIA CANTERO IRVING ROMAN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -2040,7 +2218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30447-GARCIA CANTERO IRVING ROMAN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2062,7 +2242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30447-GARCIA CANTERO IRVING ROMAN ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2092,7 +2274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-113",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12005-GARCIA ELISEO LUIS ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2106,7 +2290,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12005-GARCIA ELISEO LUIS ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -2128,7 +2314,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-109",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12005-GARCIA ELISEO LUIS ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2150,7 +2338,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12005-GARCIA ELISEO LUIS ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2172,7 +2362,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12005-GARCIA ELISEO LUIS ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -2186,7 +2378,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-115",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12005-GARCIA ELISEO LUIS ARMANDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2216,7 +2410,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-407",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-GARCIA RUIZ ALEJANDRO HUMBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -2238,7 +2434,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-GARCIA RUIZ ALEJANDRO HUMBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2260,7 +2458,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-GARCIA RUIZ ALEJANDRO HUMBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2274,7 +2474,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-410",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-GARCIA RUIZ ALEJANDRO HUMBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2296,7 +2498,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30547-GARCIA RUIZ ALEJANDRO HUMBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2326,7 +2530,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10986-GARCIA SANCHEZ MAXIMINO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -2348,7 +2554,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10986-GARCIA SANCHEZ MAXIMINO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -2370,7 +2578,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10986-GARCIA SANCHEZ MAXIMINO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -2392,7 +2602,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10986-GARCIA SANCHEZ MAXIMINO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -2414,7 +2626,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10986-GARCIA SANCHEZ MAXIMINO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2444,7 +2658,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30707-GONZALEZ TURRUBIATES ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -2466,7 +2682,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30707-GONZALEZ TURRUBIATES ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -2488,7 +2706,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "38",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30707-GONZALEZ TURRUBIATES ALEJANDRO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2518,7 +2738,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-SISTEMAS DE MANUFACTURA",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10998-GONZALEZ TURRUBIATES JOSE GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -2540,7 +2762,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-SISTEMAS DE MANUFACTURA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10998-GONZALEZ TURRUBIATES JOSE GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -2562,7 +2786,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-SISTEMAS DE MANUFACTURA",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10998-GONZALEZ TURRUBIATES JOSE GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -2584,7 +2810,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "D-401",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10998-GONZALEZ TURRUBIATES JOSE GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -2598,7 +2826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "DEI-SISTEMAS DE MANUFACTURA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10998-GONZALEZ TURRUBIATES JOSE GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -2612,7 +2842,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "DEI-SISTEMAS DE MANUFACTURA",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10998-GONZALEZ TURRUBIATES JOSE GABRIEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2642,7 +2874,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-JUAREZ MARTINEZ FRANCISCO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -2664,7 +2898,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-JUAREZ MARTINEZ FRANCISCO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -2686,7 +2922,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-JUAREZ MARTINEZ FRANCISCO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -2708,7 +2946,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-JUAREZ MARTINEZ FRANCISCO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -2730,7 +2970,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-103",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-JUAREZ MARTINEZ FRANCISCO JAVIER ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2760,7 +3002,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "41",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -2782,7 +3026,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -2804,7 +3050,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-205",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -2826,7 +3074,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-206",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -2840,7 +3090,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-309",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -2862,7 +3114,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "34",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -2884,7 +3138,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30031-LARA ORTEGA RODOLFO VALENTIN ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -2914,7 +3170,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12131-LEAL DEL ANGEL GILBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -2936,7 +3194,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12131-LEAL DEL ANGEL GILBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -2958,7 +3218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12131-LEAL DEL ANGEL GILBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -2980,7 +3242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12131-LEAL DEL ANGEL GILBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3002,7 +3266,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-309",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30652-LIRA GARCIA KATEA ELIZABETH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3024,7 +3290,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-202",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30652-LIRA GARCIA KATEA ELIZABETH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -3038,7 +3306,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-309",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30652-LIRA GARCIA KATEA ELIZABETH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -3060,7 +3330,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-203",
         "inscritos": "34",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30652-LIRA GARCIA KATEA ELIZABETH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -3074,7 +3346,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-104",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30652-LIRA GARCIA KATEA ELIZABETH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3096,7 +3370,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-207",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30652-LIRA GARCIA KATEA ELIZABETH ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3126,7 +3402,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-205",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30249-LOPEZ GUZMAN GRISELDA EDITH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3148,7 +3426,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30249-LOPEZ GUZMAN GRISELDA EDITH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -3170,7 +3450,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-206",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30249-LOPEZ GUZMAN GRISELDA EDITH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -3192,7 +3474,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-206",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30249-LOPEZ GUZMAN GRISELDA EDITH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -3214,7 +3498,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-207",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30249-LOPEZ GUZMAN GRISELDA EDITH ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3236,7 +3522,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-207",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30249-LOPEZ GUZMAN GRISELDA EDITH ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3258,7 +3546,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-207",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-LOPEZ LEDEZMA ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3272,7 +3562,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-HIDRÁULICA",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-LOPEZ LEDEZMA ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -3286,7 +3578,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-208",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-LOPEZ LEDEZMA ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -3300,7 +3594,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-209",
         "inscritos": "38",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-LOPEZ LEDEZMA ARMANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3314,7 +3610,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-AMBIENTAL",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-LOPEZ LEDEZMA ARMANDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3344,7 +3642,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "39",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30338-LOPEZ VAZQUEZ DIOCELINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -3366,7 +3666,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30338-LOPEZ VAZQUEZ DIOCELINA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -3388,7 +3690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30338-LOPEZ VAZQUEZ DIOCELINA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3418,7 +3722,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-306",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30615-LOREDO HERNANDEZ ROCIO ANABELL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -3440,7 +3746,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-306",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30615-LOREDO HERNANDEZ ROCIO ANABELL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -3462,7 +3770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-306",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30615-LOREDO HERNANDEZ ROCIO ANABELL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -3484,7 +3794,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30615-LOREDO HERNANDEZ ROCIO ANABELL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3514,7 +3826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-309",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-MALDONADO ROBERT SUSAN MARGARITA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -3536,7 +3850,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-MALDONADO ROBERT SUSAN MARGARITA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3558,7 +3874,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-MALDONADO ROBERT SUSAN MARGARITA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -3572,7 +3890,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-206",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-MALDONADO ROBERT SUSAN MARGARITA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3594,7 +3914,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "37",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30245-MALDONADO ROBERT SUSAN MARGARITA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3624,7 +3946,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-04T00:00:00.000",
         "aula": "D-412",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12222-MARES LOPEZ OLGA LETICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -3646,7 +3970,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-04T00:00:00.000",
         "aula": "A-113",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12222-MARES LOPEZ OLGA LETICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -3668,7 +3994,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-407",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12222-MARES LOPEZ OLGA LETICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -3682,7 +4010,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-108",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12222-MARES LOPEZ OLGA LETICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -3704,7 +4034,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-108",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12222-MARES LOPEZ OLGA LETICIA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3734,7 +4066,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "36",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-MARTINEZ MANZANO SERGIO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -3756,7 +4090,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-203",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-MARTINEZ MANZANO SERGIO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -3778,7 +4114,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-MARTINEZ MANZANO SERGIO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -3800,7 +4138,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-MARTINEZ MANZANO SERGIO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -3822,7 +4162,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-MARTINEZ MANZANO SERGIO JAVIER ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3852,7 +4194,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-MARTINEZ OSTI JOSE RICARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -3874,7 +4218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12004-MARTINEZ OSTI JOSE RICARDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -3904,7 +4250,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-MARTINEZ VAZQUEZ BLANCA PATRICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -3926,7 +4274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-302",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-MARTINEZ VAZQUEZ BLANCA PATRICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -3948,7 +4298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-302",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-MARTINEZ VAZQUEZ BLANCA PATRICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -3970,7 +4322,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-315",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-MARTINEZ VAZQUEZ BLANCA PATRICIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -3992,7 +4346,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10977-MARTINEZ VAZQUEZ BLANCA PATRICIA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4022,7 +4378,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "39",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30655-MERAZ RODRIGUEZ LILIA ALEJANDRA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -4044,7 +4402,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30655-MERAZ RODRIGUEZ LILIA ALEJANDRA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4074,7 +4434,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-402",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-MORENO MENDOZA ISIDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -4096,7 +4458,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-MORENO MENDOZA ISIDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -4118,7 +4482,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-MORENO MENDOZA ISIDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -4140,7 +4506,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-403",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-MORENO MENDOZA ISIDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -4162,7 +4530,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12085-MORENO MENDOZA ISIDRO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4192,7 +4562,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12197-MUÑOZ QUINTERO DANTE ADOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -4214,7 +4586,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12197-MUÑOZ QUINTERO DANTE ADOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4236,7 +4610,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12197-MUÑOZ QUINTERO DANTE ADOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -4258,7 +4634,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-109",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12197-MUÑOZ QUINTERO DANTE ADOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4280,7 +4658,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12197-MUÑOZ QUINTERO DANTE ADOLFO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4310,7 +4690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-305",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30499-PANCARDO PEREZ JANNYA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -4332,7 +4714,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-303",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30499-PANCARDO PEREZ JANNYA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -4354,7 +4738,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30499-PANCARDO PEREZ JANNYA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -4376,7 +4762,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30499-PANCARDO PEREZ JANNYA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -4398,7 +4786,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30499-PANCARDO PEREZ JANNYA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4428,7 +4818,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30539-PEÑA RAMOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -4450,7 +4842,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30539-PEÑA RAMOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4472,7 +4866,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30539-PEÑA RAMOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -4494,7 +4890,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30539-PEÑA RAMOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -4516,7 +4914,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30539-PEÑA RAMOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4530,7 +4930,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-108",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30539-PEÑA RAMOS ALFREDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4560,7 +4962,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-411",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-PEREZ COBOS JULISA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4582,7 +4986,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-411",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-PEREZ COBOS JULISA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -4604,7 +5010,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-PEREZ COBOS JULISA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4626,7 +5034,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-PEREZ COBOS JULISA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "J",
@@ -4648,7 +5058,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-PEREZ COBOS JULISA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4662,7 +5074,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-113",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-PEREZ COBOS JULISA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4692,7 +5106,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30129-PICHARDO TREVIÑO CLAUDIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4714,7 +5130,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30129-PICHARDO TREVIÑO CLAUDIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -4736,7 +5154,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30129-PICHARDO TREVIÑO CLAUDIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4758,7 +5178,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30129-PICHARDO TREVIÑO CLAUDIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -4780,7 +5202,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-304",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30129-PICHARDO TREVIÑO CLAUDIA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4810,7 +5234,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30650-RANGEL GONZALEZ JAVIER ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -4832,7 +5258,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30650-RANGEL GONZALEZ JAVIER ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4854,7 +5282,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30650-RANGEL GONZALEZ JAVIER ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -4876,7 +5306,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30650-RANGEL GONZALEZ JAVIER ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -4898,7 +5330,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30650-RANGEL GONZALEZ JAVIER ALBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -4928,7 +5362,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-103",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "29037-REYNOSO MARTINEZ JORGE OCTAVIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -4950,7 +5386,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "29037-REYNOSO MARTINEZ JORGE OCTAVIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -4972,7 +5410,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-104",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "29037-REYNOSO MARTINEZ JORGE OCTAVIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5002,7 +5442,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-207",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30724-RIOS ACEVES KEVIN EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5024,7 +5466,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-207",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30724-RIOS ACEVES KEVIN EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -5046,7 +5490,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30724-RIOS ACEVES KEVIN EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -5068,7 +5514,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30724-RIOS ACEVES KEVIN EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -5090,7 +5538,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-208",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30724-RIOS ACEVES KEVIN EDUARDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5120,7 +5570,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30566-RIVERA PEREZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5142,7 +5594,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-210",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30566-RIVERA PEREZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5164,7 +5618,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30566-RIVERA PEREZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5186,7 +5642,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30566-RIVERA PEREZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5208,7 +5666,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30566-RIVERA PEREZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5222,7 +5682,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-210",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30566-RIVERA PEREZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5252,7 +5714,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30686-SAN VICENTE MENDOZA MARIO ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5266,7 +5730,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30686-SAN VICENTE MENDOZA MARIO ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5280,7 +5746,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-104",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30686-SAN VICENTE MENDOZA MARIO ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5302,7 +5770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30686-SAN VICENTE MENDOZA MARIO ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5324,7 +5794,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30686-SAN VICENTE MENDOZA MARIO ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5338,7 +5810,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30686-SAN VICENTE MENDOZA MARIO ALBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5360,7 +5834,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-104",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30216-SANCHEZ GARCIA HECTOR MANUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5382,7 +5858,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30216-SANCHEZ GARCIA HECTOR MANUEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5412,7 +5890,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-304",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30314-SANCHEZ GONZALEZ JAIME ATAULFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -5426,7 +5906,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-AMBIENTAL",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30314-SANCHEZ GONZALEZ JAIME ATAULFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5440,7 +5922,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-AMBIENTAL",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30314-SANCHEZ GONZALEZ JAIME ATAULFO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5470,7 +5954,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-102",
         "inscritos": "5",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -5484,7 +5970,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-300",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -5506,7 +5994,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-405",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -5528,7 +6018,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-406",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -5550,7 +6042,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5564,7 +6058,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-105",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -5586,7 +6082,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-311",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10904-SANCHEZ PURATA ORALIA GUADALUPE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5616,7 +6114,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30077-SANCHEZ VELAZQUEZ HECTOR ORLANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -5638,7 +6138,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30077-SANCHEZ VELAZQUEZ HECTOR ORLANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -5660,7 +6162,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30077-SANCHEZ VELAZQUEZ HECTOR ORLANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -5682,7 +6186,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-208",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30077-SANCHEZ VELAZQUEZ HECTOR ORLANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -5704,7 +6210,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "38",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30077-SANCHEZ VELAZQUEZ HECTOR ORLANDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -5726,7 +6234,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30077-SANCHEZ VELAZQUEZ HECTOR ORLANDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5748,7 +6258,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-301",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -5762,7 +6274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-315",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -5784,7 +6298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-205",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -5806,7 +6322,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -5828,7 +6346,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -5850,7 +6370,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-309",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -5872,7 +6394,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-311",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12115-SEVA CONDE MANUEL ENRIQUE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5894,7 +6418,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-310",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30594-SOSA DEL ANGEL CARLOS OMAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -5908,7 +6434,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-304",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30594-SOSA DEL ANGEL CARLOS OMAR ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -5938,7 +6466,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-104",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30054-SOSA PEREZ FELIPE JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5960,7 +6490,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "7",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30054-SOSA PEREZ FELIPE JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -5982,7 +6514,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-105",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30054-SOSA PEREZ FELIPE JAVIER ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6012,7 +6546,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "7",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12163-TENORIO GARCIA CARLOS ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6042,7 +6578,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "22114-TORRES SANCHEZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -6064,7 +6602,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "22114-TORRES SANCHEZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -6086,7 +6626,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "22114-TORRES SANCHEZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -6108,7 +6650,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "22114-TORRES SANCHEZ CARLOS ALBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6130,7 +6674,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -6144,7 +6690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -6158,7 +6706,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6180,7 +6730,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6202,7 +6754,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6224,7 +6778,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6246,7 +6802,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30445-VALLE SEGOVIA PEDRO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6276,7 +6834,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-405",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -6290,7 +6850,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-301",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -6312,7 +6874,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-305",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -6334,7 +6898,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -6356,7 +6922,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-305",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -6378,7 +6946,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-402",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -6400,7 +6970,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12028-VAZQUEZ PIMIENTA NORMA ANGELICA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6430,7 +7002,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-311",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30607-VEGA SANCHEZ ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -6452,7 +7026,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30607-VEGA SANCHEZ ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -6474,7 +7050,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30607-VEGA SANCHEZ ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -6496,7 +7074,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-306",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30607-VEGA SANCHEZ ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -6518,7 +7098,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-306",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30607-VEGA SANCHEZ ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -6540,7 +7122,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-306",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30607-VEGA SANCHEZ ALEJANDRO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6570,7 +7154,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-VIDAL ACOSTA ANTONIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6592,7 +7178,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-VIDAL ACOSTA ANTONIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -6614,7 +7202,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-202",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-VIDAL ACOSTA ANTONIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6636,7 +7226,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-101",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-VIDAL ACOSTA ANTONIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -6650,7 +7242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-203",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-VIDAL ACOSTA ANTONIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -6672,7 +7266,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-203",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-VIDAL ACOSTA ANTONIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6702,7 +7298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-ALVAREZ NAVARRO EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -6724,7 +7322,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-ALVAREZ NAVARRO EDUARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "H",
@@ -6746,7 +7346,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-ALVAREZ NAVARRO EDUARDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6776,7 +7378,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "39",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10950-ARCOS ESPINOSA GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6798,7 +7402,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-208",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10950-ARCOS ESPINOSA GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -6820,7 +7426,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-207",
         "inscritos": "8",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10950-ARCOS ESPINOSA GABRIEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6850,7 +7458,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-AYALA PIÑEYRO ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6872,7 +7482,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-AYALA PIÑEYRO ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -6894,7 +7506,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-202",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-AYALA PIÑEYRO ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -6916,7 +7530,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-202",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-AYALA PIÑEYRO ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -6938,7 +7554,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-203",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-AYALA PIÑEYRO ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -6960,7 +7578,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-203",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10993-AYALA PIÑEYRO ENRIQUE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -6990,7 +7610,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12114-AZUARA HERNANDEZ MARCOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7012,7 +7634,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12114-AZUARA HERNANDEZ MARCOS ALFREDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7034,7 +7658,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-205",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7048,7 +7674,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-AMBIENTAL",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -7062,7 +7690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-206",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7076,7 +7706,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-207",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7090,7 +7722,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-AMBIENTAL",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7104,7 +7738,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-205",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7118,7 +7754,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-205",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -7132,7 +7770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-206",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7146,7 +7786,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-207",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7160,7 +7802,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-AMBIENTAL",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12097-BARRAGAN RAMIREZ RODOLFO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7190,7 +7834,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-101",
         "inscritos": "1",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12082-BARRIENTOS CISNEROS JULIO CESAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "K",
@@ -7212,7 +7858,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-101",
         "inscritos": "3",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12082-BARRIENTOS CISNEROS JULIO CESAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "K",
@@ -7234,7 +7882,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-101",
         "inscritos": "1",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12082-BARRIENTOS CISNEROS JULIO CESAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -7248,7 +7898,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-306",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12082-BARRIENTOS CISNEROS JULIO CESAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -7270,7 +7922,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-310",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12082-BARRIENTOS CISNEROS JULIO CESAR ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7292,7 +7946,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-BAUTISTA GARCIA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -7306,7 +7962,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-BAUTISTA GARCIA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -7320,7 +7978,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-BAUTISTA GARCIA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -7334,7 +7994,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-BAUTISTA GARCIA ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -7348,7 +8010,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-BAUTISTA GARCIA ROBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7378,7 +8042,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-305",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12105-BERMEA BARRIOS JUAN ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -7400,7 +8066,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12105-BERMEA BARRIOS JUAN ENRIQUE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -7422,7 +8090,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12105-BERMEA BARRIOS JUAN ENRIQUE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7452,7 +8122,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30137-CABRERA CRUZ RENE BERNARDO ELIAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7474,7 +8146,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30137-CABRERA CRUZ RENE BERNARDO ELIAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -7496,7 +8170,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-309",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30137-CABRERA CRUZ RENE BERNARDO ELIAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7510,7 +8186,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-208",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30137-CABRERA CRUZ RENE BERNARDO ELIAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7524,7 +8202,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-111",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30137-CABRERA CRUZ RENE BERNARDO ELIAS ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7554,7 +8234,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-CANTU DAVILA JOSE FRANCISCO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7576,7 +8258,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-205",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-CANTU DAVILA JOSE FRANCISCO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7606,7 +8290,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12033-CASTAN ROCHA JOSE ANTONIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -7620,7 +8306,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-115",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12033-CASTAN ROCHA JOSE ANTONIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7650,7 +8338,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-407",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10922-CHAVIRA JUAREZ GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "J",
@@ -7664,7 +8354,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-109",
         "inscritos": "4",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10922-CHAVIRA JUAREZ GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -7678,7 +8370,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-101",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10922-CHAVIRA JUAREZ GABRIEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -7692,7 +8386,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-109",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10922-CHAVIRA JUAREZ GABRIEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7722,7 +8418,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-103",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30428-DEL ANGEL MORA BRENDA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7736,7 +8434,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "36",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30428-DEL ANGEL MORA BRENDA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -7750,7 +8450,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30428-DEL ANGEL MORA BRENDA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -7764,7 +8466,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-300",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30428-DEL ANGEL MORA BRENDA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -7786,7 +8490,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30428-DEL ANGEL MORA BRENDA BERENICE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -7808,7 +8514,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-104",
         "inscritos": "8",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30428-DEL ANGEL MORA BRENDA BERENICE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7830,7 +8538,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-HIDRÁULICA",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30431-GALINDO LOPEZ RUTH DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7844,7 +8554,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-HIDRÁULICA",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30431-GALINDO LOPEZ RUTH DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -7858,7 +8570,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-HIDRÁULICA",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30431-GALINDO LOPEZ RUTH DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -7872,7 +8586,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-HIDRÁULICA",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30431-GALINDO LOPEZ RUTH DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -7894,7 +8610,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-204",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30431-GALINDO LOPEZ RUTH DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -7916,7 +8634,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-204",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30431-GALINDO LOPEZ RUTH DEL CARMEN ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -7946,7 +8666,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-ERGONOMÍA",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10928-GAMBOA SOTO FEDERICO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -7968,7 +8690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-ERGONOMÍA",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10928-GAMBOA SOTO FEDERICO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -7990,7 +8714,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-MÉTODOS",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10928-GAMBOA SOTO FEDERICO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -8012,7 +8738,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "DEI-MÉTODOS",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10928-GAMBOA SOTO FEDERICO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8042,7 +8770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "41",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -8064,7 +8794,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "34",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -8078,7 +8810,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-205",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -8092,7 +8826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-205",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -8106,7 +8842,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-206",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -8120,7 +8858,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-103",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -8142,7 +8882,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-103",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10561-GARCIA RETA ERNESTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8172,7 +8914,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-207",
         "inscritos": "8",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12017-GARZA FLORES RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -8194,7 +8938,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-207",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12017-GARZA FLORES RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -8216,7 +8962,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-208",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12017-GARZA FLORES RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -8238,7 +8986,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12017-GARZA FLORES RODOLFO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -8252,7 +9002,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-111",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12017-GARZA FLORES RODOLFO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8282,7 +9034,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12113-GONZALEZ DEL ANGEL LUIS JONAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -8304,7 +9058,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12113-GONZALEZ DEL ANGEL LUIS JONAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -8326,7 +9082,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12113-GONZALEZ DEL ANGEL LUIS JONAS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -8348,7 +9106,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-311",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12113-GONZALEZ DEL ANGEL LUIS JONAS ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8378,7 +9138,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-406",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12058-GONZALEZ DURAN NORA HILDA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -8400,7 +9162,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-304",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12058-GONZALEZ DURAN NORA HILDA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -8422,7 +9186,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-304",
         "inscritos": "34",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12058-GONZALEZ DURAN NORA HILDA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8452,7 +9218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30663-GONZALEZ HERNANDEZ ANDRES ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -8474,7 +9242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30663-GONZALEZ HERNANDEZ ANDRES ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8504,7 +9274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12027-GONZALEZ TURRUBIATES DORA MARIA ESTHER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -8526,7 +9298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12027-GONZALEZ TURRUBIATES DORA MARIA ESTHER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -8548,7 +9322,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12027-GONZALEZ TURRUBIATES DORA MARIA ESTHER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -8570,7 +9346,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-309",
         "inscritos": "7",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12027-GONZALEZ TURRUBIATES DORA MARIA ESTHER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -8592,7 +9370,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12027-GONZALEZ TURRUBIATES DORA MARIA ESTHER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -8614,7 +9394,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-205",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12027-GONZALEZ TURRUBIATES DORA MARIA ESTHER ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8644,7 +9426,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-313",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12176-GRACIA GUZMAN MARIA DOLORES ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -8658,7 +9442,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-303",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12176-GRACIA GUZMAN MARIA DOLORES ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -8672,7 +9458,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-308",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12176-GRACIA GUZMAN MARIA DOLORES ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8702,7 +9490,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-101",
         "inscritos": "1",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12120-GUZMAN GARCIA JUAN CARLOS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -8724,7 +9514,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-306",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12120-GUZMAN GARCIA JUAN CARLOS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -8746,7 +9538,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-314",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12120-GUZMAN GARCIA JUAN CARLOS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -8768,7 +9562,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12120-GUZMAN GARCIA JUAN CARLOS ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8798,7 +9594,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-GUZMAN OBANDO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -8820,7 +9618,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-GUZMAN OBANDO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -8842,7 +9642,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-409",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-GUZMAN OBANDO JAVIER ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -8864,7 +9666,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-407",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12099-GUZMAN OBANDO JAVIER ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8886,7 +9690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-210",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12112-HERNANDEZ REJON ELDA MARGARITA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -8908,7 +9714,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12112-HERNANDEZ REJON ELDA MARGARITA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -8930,7 +9738,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12112-HERNANDEZ REJON ELDA MARGARITA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -8960,7 +9770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-404",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12188-HERNANDEZ REJON ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -8974,7 +9786,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-404",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12188-HERNANDEZ REJON ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -8996,7 +9810,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12188-HERNANDEZ REJON ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -9010,7 +9826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-311",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12188-HERNANDEZ REJON ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -9032,7 +9850,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-403",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12188-HERNANDEZ REJON ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -9054,7 +9874,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12188-HERNANDEZ REJON ROSA MARIA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9084,7 +9906,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30047-HURTADO MORA HYASSELINY ALEJANDRA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -9106,7 +9930,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30047-HURTADO MORA HYASSELINY ALEJANDRA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9128,7 +9954,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30047-HURTADO MORA HYASSELINY ALEJANDRA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -9150,7 +9978,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30047-HURTADO MORA HYASSELINY ALEJANDRA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9164,7 +9994,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-307",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30047-HURTADO MORA HYASSELINY ALEJANDRA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9194,7 +10026,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-108",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12227-IBARRA MARTINEZ SALVADOR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -9208,7 +10042,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-108",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12227-IBARRA MARTINEZ SALVADOR ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9238,7 +10074,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-410",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12187-LARIA MENCHACA JULIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -9260,7 +10098,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-412",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12187-LARIA MENCHACA JULIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -9282,7 +10122,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12187-LARIA MENCHACA JULIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9304,7 +10146,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-305",
         "inscritos": "34",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12125-LAUREANO CASANOVA OSCAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -9318,7 +10162,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-306",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12125-LAUREANO CASANOVA OSCAR ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9348,7 +10194,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-303",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-LOREDO HERNANDEZ CARLOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -9370,7 +10218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-306",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-LOREDO HERNANDEZ CARLOS ALFREDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9392,7 +10242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12066-LOREDO HERNANDEZ CARLOS ALFREDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9422,7 +10274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-303",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12176-MAR ORTIZ JULIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9444,7 +10298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-408",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12176-MAR ORTIZ JULIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9474,7 +10330,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20567-MARTINEZ CANO ESPERANZA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -9496,7 +10354,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20567-MARTINEZ CANO ESPERANZA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -9518,7 +10378,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20567-MARTINEZ CANO ESPERANZA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9540,7 +10402,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-302",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20567-MARTINEZ CANO ESPERANZA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9554,7 +10418,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-303",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20567-MARTINEZ CANO ESPERANZA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9584,7 +10450,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-304",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-MARTINEZ GARCIA MARIA ELENA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9606,7 +10474,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-404",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-MARTINEZ GARCIA MARIA ELENA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -9628,7 +10498,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-311",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-MARTINEZ GARCIA MARIA ELENA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "Q",
@@ -9642,7 +10514,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-304",
         "inscritos": "2",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30030-MARTINEZ GARCIA MARIA ELENA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9672,7 +10546,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10942-MARTINEZ LOAIZA AURORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -9694,7 +10570,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-207",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10942-MARTINEZ LOAIZA AURORA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -9716,7 +10594,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-207",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10942-MARTINEZ LOAIZA AURORA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9746,7 +10626,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12128-MARTINEZ NAVARRO JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -9760,7 +10642,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12128-MARTINEZ NAVARRO JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "H",
@@ -9774,7 +10658,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12128-MARTINEZ NAVARRO JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -9796,7 +10682,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12128-MARTINEZ NAVARRO JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -9818,7 +10706,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-115",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12128-MARTINEZ NAVARRO JOSE LUIS ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -9840,7 +10730,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12128-MARTINEZ NAVARRO JOSE LUIS ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9862,7 +10754,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "D-401",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-MONGENYIP VELA MONICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -9884,7 +10778,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "30",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-MONGENYIP VELA MONICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -9906,7 +10802,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-MONGENYIP VELA MONICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -9928,7 +10826,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-MONGENYIP VELA MONICA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "F",
@@ -9950,7 +10850,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "12",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12106-MONGENYIP VELA MONICA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -9980,7 +10882,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-407",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-MONTOTO GONZALEZ ADRIANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10002,7 +10906,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-106",
         "inscritos": "2",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-MONTOTO GONZALEZ ADRIANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -10016,7 +10922,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-MONTOTO GONZALEZ ADRIANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10038,7 +10946,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-407",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-MONTOTO GONZALEZ ADRIANA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10068,7 +10978,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-311",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "19092-MORALES RAMIREZ DIONICIO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -10090,7 +11002,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "19092-MORALES RAMIREZ DIONICIO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10120,7 +11034,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-304",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-MORENO RAMOS DAVID ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -10142,7 +11058,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-203",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-MORENO RAMOS DAVID ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -10164,7 +11082,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-203",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-MORENO RAMOS DAVID ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -10186,7 +11106,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-103",
         "inscritos": "11",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-MORENO RAMOS DAVID ANGEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -10200,7 +11122,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-202",
         "inscritos": "25",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-MORENO RAMOS DAVID ANGEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10230,7 +11154,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-108",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "13062-NAVA DIAZ SALVADOR WILFRIDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10244,7 +11170,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-108",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "13062-NAVA DIAZ SALVADOR WILFRIDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10266,7 +11194,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-412",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "13062-NAVA DIAZ SALVADOR WILFRIDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -10288,7 +11218,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "13062-NAVA DIAZ SALVADOR WILFRIDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -10310,7 +11242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "13062-NAVA DIAZ SALVADOR WILFRIDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10340,7 +11274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30019-OLIVERA ZURA ANGEL FRANCISCO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -10362,7 +11298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-102",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30019-OLIVERA ZURA ANGEL FRANCISCO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -10384,7 +11322,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-104",
         "inscritos": "8",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30019-OLIVERA ZURA ANGEL FRANCISCO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10414,7 +11354,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-205",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10943-OROZCO ROBLES JORGE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10436,7 +11378,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10943-OROZCO ROBLES JORGE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -10458,7 +11402,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-411",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10943-OROZCO ROBLES JORGE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -10480,7 +11426,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-206",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10943-OROZCO ROBLES JORGE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10510,7 +11458,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30409-PEÑA ALONSO TOMAS ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -10532,7 +11482,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30409-PEÑA ALONSO TOMAS ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -10546,7 +11498,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-111",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30409-PEÑA ALONSO TOMAS ALEJANDRO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10568,7 +11522,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10994-PICHARDO RAMIREZ ROBERTO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10582,7 +11538,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-113",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10994-PICHARDO RAMIREZ ROBERTO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10612,7 +11570,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-401",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-PICHARDO RAMIREZ ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -10626,7 +11586,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-401",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-PICHARDO RAMIREZ ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -10648,7 +11610,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-PICHARDO RAMIREZ ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -10670,7 +11634,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-406",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-PICHARDO RAMIREZ ROSA MARIA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -10692,7 +11658,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-405",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-PICHARDO RAMIREZ ROSA MARIA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10714,7 +11682,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "28",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20344-PICHARDO TORRES RAFAEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -10728,7 +11698,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "20344-PICHARDO TORRES RAFAEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10758,7 +11730,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12121-ROLON AGUILAR ELVIRA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -10780,7 +11754,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-407",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12121-ROLON AGUILAR ELVIRA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10810,7 +11786,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10941-ROLON AGUILAR JULIO CESAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -10832,7 +11810,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-205",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10941-ROLON AGUILAR JULIO CESAR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -10854,7 +11834,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-110",
         "inscritos": "40",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10941-ROLON AGUILAR JULIO CESAR ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -10884,7 +11866,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-210",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12133-RUIZ VELAZQUEZ MIGUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -10906,7 +11890,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-309",
         "inscritos": "13",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12133-RUIZ VELAZQUEZ MIGUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -10928,7 +11914,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "15",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12133-RUIZ VELAZQUEZ MIGUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -10950,7 +11938,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12133-RUIZ VELAZQUEZ MIGUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -10972,7 +11962,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-111",
         "inscritos": "9",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12133-RUIZ VELAZQUEZ MIGUEL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -10994,7 +11986,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-209",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12133-RUIZ VELAZQUEZ MIGUEL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11024,7 +12018,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-410",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30697-SANTIAGO PINEDA AURELIO ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -11046,7 +12042,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30697-SANTIAGO PINEDA AURELIO ALEJANDRO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -11068,7 +12066,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-410",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30697-SANTIAGO PINEDA AURELIO ALEJANDRO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11098,7 +12098,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-112",
         "inscritos": "21",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30454-TERAN VILLANUEVA JESUS DAVID ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "H",
@@ -11120,7 +12122,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-113",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30454-TERAN VILLANUEVA JESUS DAVID ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -11142,7 +12146,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-407",
         "inscritos": "35",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30454-TERAN VILLANUEVA JESUS DAVID ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11172,7 +12178,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-408",
         "inscritos": "36",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-TINOCO MENDIOLA RENE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -11194,7 +12202,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-315",
         "inscritos": "32",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-TINOCO MENDIOLA RENE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -11216,7 +12226,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-TINOCO MENDIOLA RENE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -11238,7 +12250,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-301",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-TINOCO MENDIOLA RENE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -11260,7 +12274,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "C-303",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12052-TINOCO MENDIOLA RENE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11282,7 +12298,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-201",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12061-TOBIAS JARAMILLO RICARDO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -11296,7 +12314,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-210",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12061-TOBIAS JARAMILLO RICARDO ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11318,7 +12338,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12228-TOLEDO BARAJAS LEONOR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -11332,7 +12354,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12228-TOLEDO BARAJAS LEONOR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -11346,7 +12370,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12228-TOLEDO BARAJAS LEONOR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -11360,7 +12386,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-QUÍMICA",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12228-TOLEDO BARAJAS LEONOR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -11382,7 +12410,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12228-TOLEDO BARAJAS LEONOR ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -11404,7 +12434,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "31",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12228-TOLEDO BARAJAS LEONOR ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11434,7 +12466,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-TREVIÑO BERRONES MAYRA GUADALUPE ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -11456,7 +12490,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "D-401",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12172-TREVIÑO BERRONES MAYRA GUADALUPE ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11486,7 +12522,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-208",
         "inscritos": "27",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12105-TREVIÑO HERNANDEZ RAUL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "R",
@@ -11508,7 +12546,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-206",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12105-TREVIÑO HERNANDEZ RAUL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "W",
@@ -11530,7 +12570,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-105",
         "inscritos": "6",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12105-TREVIÑO HERNANDEZ RAUL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11560,7 +12602,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-TREVIÑO TRUJILLO JUANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -11582,7 +12626,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "26",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-TREVIÑO TRUJILLO JUANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -11604,7 +12650,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "22",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-TREVIÑO TRUJILLO JUANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -11626,7 +12674,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "B-210",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-TREVIÑO TRUJILLO JUANA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -11640,7 +12690,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-110",
         "inscritos": "33",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12051-TREVIÑO TRUJILLO JUANA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11670,7 +12722,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-313",
         "inscritos": "24",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12126-VALENZUELA FERNANDEZ JOSE RAUL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "E",
@@ -11692,7 +12746,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "C-300",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12126-VALENZUELA FERNANDEZ JOSE RAUL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "K",
@@ -11714,7 +12770,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-101",
         "inscritos": "1",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12126-VALENZUELA FERNANDEZ JOSE RAUL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "K",
@@ -11736,7 +12794,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-101",
         "inscritos": "2",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12126-VALENZUELA FERNANDEZ JOSE RAUL ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "L",
@@ -11750,7 +12810,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "A-102",
         "inscritos": "7",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12126-VALENZUELA FERNANDEZ JOSE RAUL ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11772,7 +12834,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-300",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-VARGAS CASTILLEJA ROCIO DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "C",
@@ -11794,7 +12858,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-405",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-VARGAS CASTILLEJA ROCIO DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -11816,7 +12882,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-406",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-VARGAS CASTILLEJA ROCIO DEL CARMEN ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "D",
@@ -11830,7 +12898,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "C-308",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30165-VARGAS CASTILLEJA ROCIO DEL CARMEN ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11860,7 +12930,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-201",
         "inscritos": "23",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30416-VILLALOBOS ESCOBAR GINA PAOLA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -11882,7 +12954,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-204",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30416-VILLALOBOS ESCOBAR GINA PAOLA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -11896,7 +12970,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "A-110",
         "inscritos": "38",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "30416-VILLALOBOS ESCOBAR GINA PAOLA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -11926,7 +13002,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-412",
         "inscritos": "14",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -11948,7 +13026,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-113",
         "inscritos": "7",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -11970,7 +13050,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-109",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -11992,7 +13074,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-410",
         "inscritos": "18",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -12006,7 +13090,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "B-208",
         "inscritos": "29",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "G",
@@ -12020,7 +13106,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "D-410",
         "inscritos": "20",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "I",
@@ -12042,7 +13130,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-02T00:00:00.000",
         "aula": "A-107",
         "inscritos": "10",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "10505-VILLARREAL SNYDER EUGENIA GRACIELA ",
+        "suplente": "Sin suplente"
       }
     ]
   },
@@ -12072,7 +13162,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-202",
         "inscritos": "41",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-ZAVALA GUERRERO LUIS ALVARO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -12086,7 +13178,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "17",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-ZAVALA GUERRERO LUIS ALVARO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -12100,7 +13194,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "16",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-ZAVALA GUERRERO LUIS ALVARO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "B",
@@ -12114,7 +13210,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "8",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-ZAVALA GUERRERO LUIS ALVARO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "S",
@@ -12128,7 +13226,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-01T00:00:00.000",
         "aula": "DEI-FÍSICA",
         "inscritos": "8",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-ZAVALA GUERRERO LUIS ALVARO ",
+        "suplente": "Sin suplente"
       },
       {
         "grupo": "A",
@@ -12142,7 +13242,9 @@ Map<String, dynamic> profesores = {
         "hrsNom": "1900-01-03T00:00:00.000",
         "aula": "B-209",
         "inscritos": "19",
-        "asistencias": {}
+        "asistencias": {},
+        "titular": "12127-ZAVALA GUERRERO LUIS ALVARO ",
+        "suplente": "Sin suplente"
       }
     ]
   }

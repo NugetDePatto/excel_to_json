@@ -2,6 +2,8 @@ import 'package:excel_to_json/views/profesor_view.dart';
 import 'package:flutter/material.dart';
 import 'package:excel_to_json/controllers/archivo_controller.dart';
 
+import 'calendario_view.dart';
+
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
@@ -18,40 +20,72 @@ class _HomePageState extends State<HomePage> {
         title: const Text('Excel to JSON'),
       ),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            ElevatedButton(
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) {
-                      return const ProfesorView();
-                    },
-                  ),
-                );
-              },
-              child: const Text('Ver Profesores'),
+            Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                ElevatedButton(
+                  onPressed: () async {
+                    await archivoController.abrirExcel();
+                    setState(() {});
+                  },
+                  child: const Text('Seleccionar archivo Excel'),
+                ),
+                const SizedBox(height: 20),
+                archivoController.archivo != null
+                    ? Text(archivoController.archivo!.files.single.name)
+                    : const Text('No se ha seleccionado un archivo'),
+                const SizedBox(height: 20),
+                ElevatedButton(
+                  onPressed: archivoController.archivo == null
+                      ? null
+                      : () {
+                          archivoController.leerExcel();
+                          setState(() {});
+                        },
+                  child: const Text('Convertir a JSON'),
+                ),
+                const SizedBox(height: 20),
+                ElevatedButton(
+                  onPressed: archivoController.archivo == null
+                      ? null
+                      : () {
+                          archivoController.crearMapaHorarios();
+                          setState(() {});
+                        },
+                  child: const Text('Crear Calendario'),
+                ),
+              ],
             ),
-            const SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () async {
-                await archivoController.abrirExcel();
-                setState(() {});
-              },
-              child: const Text('Seleccionar archivo Excel'),
-            ),
-            const SizedBox(height: 20),
-            archivoController.archivo != null
-                ? Text(archivoController.archivo!.files.single.name)
-                : const Text('No se ha seleccionado un archivo'),
-            const SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () {
-                archivoController.leerExcel();
-              },
-              child: const Text('Convertir a JSON'),
+            Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                ElevatedButton(
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const CalendarioView(),
+                      ),
+                    );
+                  },
+                  child: const Text('Ver Calendario'),
+                ),
+                const SizedBox(height: 20),
+                ElevatedButton(
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const ProfesorView(),
+                      ),
+                    );
+                  },
+                  child: const Text('Ver Profesores'),
+                ),
+              ],
             ),
           ],
         ),

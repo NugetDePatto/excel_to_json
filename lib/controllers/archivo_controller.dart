@@ -2,11 +2,57 @@ import 'dart:typed_data';
 
 import 'package:excel/excel.dart';
 import 'package:file_picker/file_picker.dart';
-// import 'dart:convert';
-// import 'package:universal_html/html.dart' as html;
+import 'dart:convert';
+import 'package:universal_html/html.dart' as html;
 
 class ArchivoController {
   FilePickerResult? archivo;
+  Map<String, dynamic> profesoresMapa = {};
+
+  crearMapaHorarios() {
+    //se crea un mapa con los horarios de los profesores
+    List<Map<String, dynamic>> calendario = [
+      {}, //LUN
+      {}, //MAR
+      {}, //MIE
+      {}, //JUE
+      {}, //VIE
+      {}, //SAB
+      {}, //DOM
+    ];
+
+    for (var profesor in profesoresMapa.values) {
+      for (var horario in profesor['horarios']) {
+        String aula = horario['aula'];
+        String bloque = aula.split('-')[0];
+
+        for (int i = 0; i < 7; i++) {
+          String horas = horario['dias'][i];
+          if (horas != '-') {
+            int horaInicio = int.parse(horas.split(':')[0]);
+            int horaFin = int.parse(horas.split('-')[1].split(':')[0]);
+            while (horaInicio < horaFin) {
+              horas = '$horaInicio:00 - ${horaInicio + 1}:00';
+              if (calendario[i].containsKey(horas)) {
+                if (calendario[i][horas]!.containsKey(bloque)) {
+                  calendario[i][horas]![bloque][aula] = horario;
+                } else {
+                  calendario[i][horas]![bloque] = {aula: horario};
+                }
+              } else {
+                calendario[i][horas] = {
+                  bloque: {aula: horario}
+                };
+              }
+              horaInicio++;
+            }
+          }
+        }
+      }
+    }
+
+    descargar(calendario);
+  }
 
   Future<void> abrirExcel() async {
     try {
@@ -26,7 +72,6 @@ class ArchivoController {
   void leerExcel() {
     try {
       if (archivo != null) {
-        Map<String, dynamic> profesoresMapa = {};
         String key = '';
         //se decodifican los bytes del archivo
         Uint8List? bytes = archivo!.files.single.bytes;
@@ -36,6 +81,7 @@ class ArchivoController {
         //primer for para recorrer la hoja de excel, como se sabe que solo tiene una hoja, se puede acceder directamente, se empieza en la fila 7 porque no contiene información relevante antes de esa fila
         print('empieza el for');
         for (int i = 7; i < tabla.rows.length; i++) {
+          print(i);
           List<Data?> row = tabla.rows[i];
           //si la primera celda es diferente de null, es porque contiene información
           if (row[0] != null) {
@@ -87,9 +133,11 @@ class ArchivoController {
                   'hrsNom': row[14]!.value.toString(),
                   'aula': row[15]!.value.toString(),
                   'inscritos': row[16]!.value.toString(),
-                  'asistencias': {
-                    //'17/06': {'asis': false, 'imagen': ''},
-                  },
+                  // 'asistencias': {
+                  //   //'17/06': {'asis': false, 'imagen': ''},
+                  // },
+                  'titular': key,
+                  'suplente': 'Sin suplente',
                 },
               );
             }
@@ -97,21 +145,25 @@ class ArchivoController {
         }
         print(profesoresMapa);
 
-        // String jsonString = jsonEncode(profesoresMapa);
-        // final bytesJson = utf8.encode(jsonString);
-        // final blob = html.Blob([bytesJson]);
-        // final url = html.Url.createObjectUrlFromBlob(blob);
-        // final anchor = html.document.createElement('a') as html.AnchorElement
-        //   ..href = url
-        //   ..style.display = 'none'
-        //   ..download = 'datos.json';
-        // html.document.body?.children.add(anchor);
-        // anchor.click();
-        // html.document.body?.children.remove(anchor);
-        // html.Url.revokeObjectUrl(url);
+        descargar(profesoresMapa);
       }
     } catch (e) {
       print('Error al leer el archivo: $e');
     }
+  }
+
+  descargar(mapa) {
+    String jsonString = jsonEncode(mapa);
+    final bytesJson = utf8.encode(jsonString);
+    final blob = html.Blob([bytesJson]);
+    final url = html.Url.createObjectUrlFromBlob(blob);
+    final anchor = html.document.createElement('a') as html.AnchorElement
+      ..href = url
+      ..style.display = 'none'
+      ..download = 'datos.json';
+    html.document.body?.children.add(anchor);
+    anchor.click();
+    html.document.body?.children.remove(anchor);
+    html.Url.revokeObjectUrl(url);
   }
 }
