@@ -118,7 +118,7 @@ class ArchivoController {
                   'clave': row[1]!.value.toString(),
                   'materia': row[2]!.value.toString(),
                   'sit': row[3]!.value.toString(),
-                  'f.f': row[4]!.value.toString(),
+                  'ff': row[4]!.value.toString(),
                   'dias': [
                     row[5]!.value.toString(),
                     row[6]!.value.toString(),
